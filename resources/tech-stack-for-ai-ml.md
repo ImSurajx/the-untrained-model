@@ -4,7 +4,7 @@ status: **locked**. sequential, one stage at a time. do not jump to llms, agents
 
 target: proof that you can write code, work with data, build ml systems, deploy an ai feature, contribute to real repositories, and communicate your work. not certificates.
 
-dsa runs in parallel throughout - see `dsa-roadmap.md` for the full track and checkpoints (to be updated against your existing python dsa resource).
+dsa runs in parallel throughout - see `dsa-for-interviews.md` for the full track and checkpoints (to be updated against your existing python dsa resource).
 
 ## working rules
 
@@ -503,4 +503,4 @@ python
 -> kubernetes when a real project needs it
 ```
 
-dsa runs in parallel throughout - see `dsa-roadmap.md`.
+dsa runs in parallel throughout - see `dsa-for-interviews.md`.
